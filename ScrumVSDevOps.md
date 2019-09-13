@@ -1,10 +1,29 @@
 # ¿Cuál es la diferencia entre Scrum y DevOps?
 
-Origen: 115 mensajes en el grupo WhatsApp de la comunidad.
+| Participantes
+| ------------- 
+| Francisco Toscano 
+| Wilmer Vera
+| Jose Bonilla
+| Mario Molina 
+| Jimmy
+| Andrés N. Robalino
+| Angelucho
+| Ely
+| Irwin Franco
+| Etna Estrella
+| CTR
+| BadAss & Good@IT
+| Cristhian Montoya
+| Pato
+| Carlos Quiroga
+| Fausto Almeida
+| Victor Velepucha
 
-Participantes: `Francisco Toscano`, `Wilmer Vera`, `Jose Bonilla`, `Mario Molina`, `Jimmy`, `Andrés N. Robalino`, `Angelucho`, `Ely`, `Irwin Franco`, `Etna Estrella`, `CTR`, `BadAss & Good@IT`, `Cristhian Montoya`, `Pato`, `Carlos Quiroga`, `Fausto Almeida`, `Victor Velepucha`
+| Origen
+| ---
+| 115 mensajes en el grupo WhatsApp de la comunidad.
 
----
 
 Este post no tiene como intención redefinir un concepto o marcar una verdad absoluta, únicamente reflejar el resultado de una relativamente larga conversación que surgió de una pregunta en el grupo de la comunidad: ¿Cuál es la diferencia entre Scrum y DevOps?
 
