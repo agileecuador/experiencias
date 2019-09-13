@@ -14,9 +14,9 @@ Finalmente, en el aspecto de la construcción se habla de Scrum o parecidos, mé
 Muchas gracias a todos los miembros que aportaron a realizar este post:
 
 Francisco Toscano
-WVera
+Wilmer Vera
 Jose Bonilla
-Atito 
+Mario Molina
 Jimmy
 Andrés Robalino
 Angelucho 
@@ -29,4 +29,4 @@ Cristhian Montoya
 Pato
 Carlos Quiroga
 Fausto Almeida
-Victor
+Victor Velepucha
