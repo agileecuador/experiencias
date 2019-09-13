@@ -2,23 +2,7 @@
 
 | Participantes
 | ------------- 
-| Francisco Toscano 
-| Wilmer Vera
-| Jose Bonilla
-| Mario Molina 
-| Jimmy
-| Andrés N. Robalino
-| Angelucho
-| Ely
-| Irwin Franco
-| Etna Estrella
-| CTR
-| BadAss & Good@IT
-| Cristhian Montoya
-| Pato
-| Carlos Quiroga
-| Fausto Almeida
-| Victor Velepucha
+| `Francisco Toscano`, `Wilmer Vera`, `Jose Bonilla`, `Mario Molina`, `Jimmy`, `Andrés N. Robalino`, `Angelucho`, `Ely`, `Irwin Franco`, `Etna Estrella`, `CTR`, `BadAss & Good@IT`, `Cristhian Montoya`, `Pato`, `Carlos Quiroga`, `Fausto Almeida`, `Victor Velepucha`
 
 | Origen
 | ---
